@@ -131,6 +131,11 @@ h1 {
     color: #555;
 }
 
+.annotation-area h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
 .course-table {
     background-color: #fff;
     border-radius: 10px;
